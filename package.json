@@ -1,0 +1,11 @@
+{
+  "name": "@peakcommerce/codetest",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "mvn spring-boot:run",
+    "build": "mvn clean install",
+    "test": "mvn test"
+  }
+}
