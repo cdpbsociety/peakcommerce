@@ -21,5 +21,5 @@ I created fake data in the controller that normally should be passed in by the c
 but due to time constraints I thought this was an acceptable alternative.
 All the services use ZuoraService which handles the GET, PUT and POST requests 
 with Oath2 Authorization if needed. The Oath token is reused until it expires.
-I also have some basic error handling but nothing crazy. 
+I also have some basic error handling but nothing crazy.
 
